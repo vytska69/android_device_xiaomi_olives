@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_olives.mk
+    $(LOCAL_DIR)/cherish_olives.mk
 
 COMMON_LUNCH_CHOICES := \
     cherish_olives-user \
