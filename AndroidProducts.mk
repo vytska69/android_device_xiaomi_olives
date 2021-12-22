@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_olives.mk
+    $(LOCAL_DIR)/aosp_olives.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_olives-user \
-    cherish_olives-userdebug \
-    cherish_olives-eng
+    aosp_olives-user \
+    aosp_olives-userdebug \
+    aosp_olives-eng
