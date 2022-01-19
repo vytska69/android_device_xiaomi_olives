@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_olives.mk
+    $(LOCAL_DIR)/crystal_olives.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_olives-user \
-    aosp_olives-userdebug \
-    aosp_olives-eng
+    crystal_olives-user \
+    crystal_olives-userdebug \
+    crystal_olives-eng
